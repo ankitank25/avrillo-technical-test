@@ -31,4 +31,9 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+    'kanye' => [
+        'api_url' => env('KANYE_API_URL'),
+        'api_key' => env('KANYE_API_TOKEN'),
+    ]
+
 ];
