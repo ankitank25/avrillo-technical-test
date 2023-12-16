@@ -2,7 +2,7 @@
 
 ## About
 
-This application is built using laravel 10.x. This is a technical test provided by J&T Recruitment for Avrillo LLP. 
+This application is built using laravel 10.x. This is a technical test with the provided requirements. 
 
 This is to fetch west quotes from https://kanye.rest/
 
